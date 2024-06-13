@@ -12,5 +12,5 @@ docker pull otel/opentelemetry-collector-contrib:0.88.0
 k6s https://k6.io/
 
 # Деплой
-Установить app.py из репозитория otus-app
+Установить app.py из репозитория sre-app
 запустить тесты k6
